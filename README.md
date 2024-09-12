@@ -1,4 +1,4 @@
-https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Edward+Le;I'm+Software+Engineering](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Edward+Le;I'm+Software+Engineering)](https://git.io/typing-svg)
 
 
 <br>
@@ -17,20 +17,20 @@ https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Main Stack:
-  https://skillicons.dev/icons?i=react
-  https://skillicons.dev/icons?i=ts
-  https://skillicons.dev/icons?i=js
-  https://skillicons.dev/icons?i=python
-  https://skillicons.dev/icons?i=java
-  https://skillicons.dev/icons?i=mysql
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://reactnative.dev/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/en/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
 
 #### Tools:
 
-  https://skillicons.dev/icons?i=vscode
-  https://skillicons.dev/icons?i=eclipse
-  https://skillicons.dev/icons?i=github
-  https://skillicons.dev/icons?i=git
-  https://skillicons.dev/icons?i=figma
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=eclipse"/>](https://git-scm.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
 
 
 <br>
@@ -46,5 +46,5 @@ https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter
 
 
 ------
-Credit: https://github.com/EdwardsLe202
+Credit: [EdwardsLe](https://github.com/EdwardsLe202)
 Last Edited on: 26/05/2024
