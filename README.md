@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuan</h1>
 <h3 align="center">A frontend developer from HaNoi(VietNam)</h3>
 
-- 🔭 I’m currently working on [OpenTechiz]([https://heavybag.pro/](https://www.opentechiz.com/))
+- 🔭 I’m currently working on [OpenTechiz](https://www.opentechiz.com/)
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=8793721087079950406](https://play.google.com/store/apps/dev?id=8793721087079950406)
 
